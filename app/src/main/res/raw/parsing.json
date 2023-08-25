@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "id": "123",
+      "name": "abc",
+      "email": "abc@mgial.com",
+      "gender": "male",
+      "contact": {
+        "mobile": "+92 21212121",
+        "home": "123456789",
+        "office": "technology"
+      }
+    },
+    {
+      "id": "1234",
+      "name": "faizan",
+      "email": "faizan@gmail.com",
+      "contact": {
+        "mobile": "+92 00000000",
+        "home": "00 11221122"
+      }
+    }
+  ]
+}

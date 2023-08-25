@@ -1,0 +1,27 @@
+{
+  "user": [
+    {
+      "id" : "1087",
+      "name" : "Abdul Rehman Irfan",
+      "email" : "abudlrehmantin@gmail.com",
+      "gender": "Male",
+      "contact": {
+        "mobile": "+92 336-0592060",
+        "home": "051 - 2360008",
+        "office": "1234567"
+      }
+    },
+    {
+      "id": "1234",
+      "name": "Mohammad Faizan Irfan",
+      "email": "faizan.11.vision@gmail.com",
+      "gender": "Male",
+      "Contact":
+      {
+        "mobile": "+92 336-0592040",
+        "home": "051-2360008",
+        "office": "1234567"
+      }
+    }
+  ]
+}
